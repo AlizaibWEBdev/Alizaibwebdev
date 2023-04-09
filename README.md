@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alizaib</h1>
-<h3 align="center">A full stack eveloper from pakisttan</h3>
+<h3 align="center">A full stack developer from pakisttan</h3>
 
 - 🌱 I’m currently learning **mern satck development, python**
 

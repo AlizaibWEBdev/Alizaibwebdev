@@ -22,7 +22,7 @@ I'm the founder of **[aziqdev.com](https://aziqdev.com)** — a Telegram bot dev
 - 💬 Ask me about **Telegram Bots, Python, Node.js, React, Full Stack Development**
 - 📫 Reach me at **Alizaib.web.dev@gmail.com**
 - ⚡ Fun fact: **A well-built Telegram bot can replace an entire support team**
-
+- now founded https://aziqwrites.com/ for writing some article 
 ---
 
 ### 🤖 What I Build at [aziqdev.com](https://aziqdev.com)
